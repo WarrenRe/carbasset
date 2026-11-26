@@ -1,9 +1,108 @@
-
 {
   "meta": {
     "version": "1.0",
     "base_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/",
     "max_duration_seconds": 10
   },
-  "clips": []
+  "clips": [
+    {
+      "id": "nar-intro-san-jose",
+      "speaker": "narrator",
+      "role": "Narrator",
+      "intent": "intro",
+      "text": "Acid rain hisses across neon concrete as your ocular HUD locks onto the street ahead. Stay sharp, runner.",
+      "file": "narrator/nar-intro-san-jose.mp3",
+      "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/narrator/nar-intro-san-jose.mp3"
+    },
+    {
+      "id": "nar-skill-success",
+      "speaker": "narrator",
+      "role": "Narrator",
+      "intent": "skill_success",
+      "text": "Clean execution. The security node flickers green and yields its hidden data without tripping a single alarm.",
+      "file": "narrator/nar-skill-success.mp3",
+      "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/narrator/nar-skill-success.mp3"
+    },
+    {
+      "id": "nar-skill-fail",
+      "speaker": "narrator",
+      "role": "Narrator",
+      "intent": "skill_fail",
+      "text": "Static spikes across your visor. The lock rejects your override, and footsteps echo from the corridor behind you.",
+      "file": "narrator/nar-skill-fail.mp3",
+      "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/narrator/nar-skill-fail.mp3"
+    },
+    {
+      "id": "nar-combat-start",
+      "speaker": "narrator",
+      "role": "Narrator",
+      "intent": "combat_start",
+      "text": "Targeting reticles flare crimson. Hostiles are closing fast—roll initiative and pick your cover.",
+      "file": "narrator/nar-combat-start.mp3",
+      "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/narrator/nar-combat-start.mp3"
+    },
+    {
+      "id": "nar-fallback-generic",
+      "speaker": "narrator",
+      "role": "Narrator",
+      "intent": "fallback_generic",
+      "text": "The city hums in the rain while your neural link processes the next move. Check your HUD feed for details.",
+      "file": "narrator/nar-fallback-generic.mp3",
+      "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/narrator/nar-fallback-generic.mp3"
+    },
+    {
+      "id": "corpo-greeting",
+      "speaker": "corpo-generic",
+      "role": "Corpo",
+      "intent": "greeting",
+      "text": "You have thirty seconds of billable time. State your contract credentials or security will escort you out.",
+      "file": "characters/corpo-generic/corpo-generic-greeting.mp3",
+      "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/corpo-generic/corpo-generic-greeting.mp3"
+    },
+    {
+      "id": "corpo-fallback",
+      "speaker": "corpo-generic",
+      "role": "Corpo",
+      "intent": "fallback_generic",
+      "text": "My encrypted channel is throttled. Review the dossier on your visor and confirm when ready.",
+      "file": "characters/corpo-generic/corpo-generic-fallback.mp3",
+      "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/corpo-generic/corpo-generic-fallback.mp3"
+    },
+    {
+      "id": "street-greeting",
+      "speaker": "street-generic",
+      "role": "Street",
+      "intent": "greeting",
+      "text": "Keep your chrome holstered and your voice low. You brought the Wonlongs, or are you wasting my night?",
+      "file": "characters/street-generic/street-generic-greeting.mp3",
+      "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/street-generic/street-generic-greeting.mp3"
+    },
+    {
+      "id": "street-fallback",
+      "speaker": "street-generic",
+      "role": "Street",
+      "intent": "fallback_generic",
+      "text": "Comms are jammed down here, choom. Read the feed on your screen and move before the drones sweep past.",
+      "file": "characters/street-generic/street-generic-fallback.mp3",
+      "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/street-generic/street-generic-fallback.mp3"
+    },
+    {
+      "id": "synth-greeting",
+      "speaker": "synth-generic",
+      "role": "Synth",
+      "intent": "greeting",
+      "text": "Biometric handshake verified. My tactical subroutines are online and awaiting your next directive.",
+      "file": "characters/synth-generic/synth-generic-greeting.mp3",
+      "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/synth-generic/synth-generic-greeting.mp3"
+    },
+    {
+      "id": "synth-fallback",
+      "speaker": "synth-generic",
+      "role": "Synth",
+      "intent": "fallback_generic",
+      "text": "Voice uplink bandwidth exceeded. Switching to local cached telemetry. Read your HUD readout to proceed.",
+      "file": "characters/synth-generic/synth-generic-fallback.mp3",
+      "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/synth-generic/synth-generic-fallback.mp3"
+    }
+  ]
 }
