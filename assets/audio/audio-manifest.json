@@ -1,1 +1,9 @@
 
+{
+  "meta": {
+    "version": "1.0",
+    "base_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/",
+    "max_duration_seconds": 10
+  },
+  "clips": []
+}
