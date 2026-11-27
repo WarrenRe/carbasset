@@ -2,7 +2,7 @@
   "meta": {
     "project": "Carbon 2185 Live App",
     "repository": "WarrenRe/carbasset",
-    "generated_at": "2026-11-27T06:12:25.325228+00:00",
+    "generated_at": "2026-11-27T06:14:11.595659+00:00",
     "counts": {
       "Locations": 14,
       "Weapons": 30,
@@ -431,7 +431,7 @@
         "2d_image_url": "",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on KHMA Resin Pistol, A compact semi-automatic handgun fabricated from smooth matte-black synthetic resin with sharp, angular edges. A slim amber power-level diode runs parallel to the under-barrel accessory rail, casting a soft glow over the textured ergonomic grip, wielded in an active combat stance by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the KHMA Resin Pistol so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "KHMA (logo-khma.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/pistolaction2.png",
         "id": "weapons:khma-resin-pistol",
         "slug": "khma-resin-pistol",
         "category": "Weapons",
@@ -444,8 +444,8 @@
         "image_2d": "",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/pistolaction2.png",
+        "image_status": "READY"
       },
       {
         "name": "Buck Burst Pistol",
@@ -457,7 +457,7 @@
         "2d_image_url": "",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on Buck Burst Pistol, A reinforced, wide-bored pistol chassis constructed from dark gunmetal and fitted with heavy horizontal barrel vents. Twin illuminated red status indicators flank the rear breach, highlighting exposed brass-plated shell chambers, wielded in an active combat stance by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the Buck Burst Pistol so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "KHMA (logo-khma.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/pistolaction2.png",
         "id": "weapons:buck-burst-pistol",
         "slug": "buck-burst-pistol",
         "category": "Weapons",
@@ -470,8 +470,8 @@
         "image_2d": "",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/pistolaction2.png",
+        "image_status": "READY"
       },
       {
         "name": "Needle Gun",
@@ -535,7 +535,7 @@
         "2d_image_url": "",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on Phase Weapon, A futuristic bullpup frame crafted from pearlescent white composite plating and interlocking ceramic heatsinks. Exposed induction coils wrapped in heavy glass insulators pulse with vivid cyan electrical arcs when charged, wielded in an active combat stance by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the Phase Weapon so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "KHMA (logo-khma.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/phaseaction (2).png",
         "id": "weapons:phase-weapon",
         "slug": "phase-weapon",
         "category": "Weapons",
@@ -548,8 +548,8 @@
         "image_2d": "",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/phaseaction (2).png",
+        "image_status": "READY"
       },
       {
         "name": "Deluxe Sniper Rifle",
@@ -587,7 +587,7 @@
         "2d_image_url": "",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on Automatic Shotgun, A brutal combat shotgun built around a heavy drum magazine well and a perforated heat shroud shielding the primary barrel. Red digital LED shell counters are inset directly into the dust cover above the reinforced ribbed polymer foregrip, wielded in an active combat stance by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the Automatic Shotgun so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "KHMA (logo-khma.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/shotgunaction.png",
         "id": "weapons:automatic-shotgun",
         "slug": "automatic-shotgun",
         "category": "Weapons",
@@ -600,8 +600,8 @@
         "image_2d": "",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/shotgunaction.png",
+        "image_status": "READY"
       },
       {
         "name": "P.A.M.S",
@@ -717,7 +717,7 @@
         "2d_image_url": "",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on Tactical Stun Gloves, A pair of reinforced black ballistic-mesh gloves reinforced with molded carbon-fiber knuckle plates and subdermal wiring. Exposed copper contact nodes across the striking surfaces crackle with bright electric-blue sparks when activated, wielded in an active combat stance by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the Tactical Stun Gloves so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "KHMA (logo-khma.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/stunglovesaction.png",
         "id": "weapons:tactical-stun-gloves",
         "slug": "tactical-stun-gloves",
         "category": "Weapons",
@@ -730,8 +730,8 @@
         "image_2d": "",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/stunglovesaction.png",
+        "image_status": "READY"
       },
       {
         "name": "KHMA Tactical Stun Gloves",
@@ -743,7 +743,7 @@
         "2d_image_url": "",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on KHMA Tactical Stun Gloves, Crafted from sleek, matte-black synthetic leather, these fitted gloves feature reinforced carbon-weave knuckle plating embedded with polished metallic contact points. Fine luminescent cyan circuit traces run across the back of the hand from a compact cuff battery unit to exposed electrical nodes at the fingertips and palm, wielded in an active combat stance by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the KHMA Tactical Stun Gloves so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "KHMA (logo-khma.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/stunglovesaction.png",
         "id": "weapons:khma-tactical-stun-gloves",
         "slug": "khma-tactical-stun-gloves",
         "category": "Weapons",
@@ -757,8 +757,8 @@
         "image_2d": "",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/stunglovesaction.png",
+        "image_status": "READY"
       },
       {
         "name": "KHMA Buck Burst Pistol",
@@ -770,7 +770,7 @@
         "2d_image_url": "",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on KHMA Buck Burst Pistol, A thick, snub-nosed handgun crafted from matte industrial steel and reinforced composite plating, sporting an oversized reinforced barrel. A subtle neon-amber charge indicator glows near the 4-shot cylinder chamber, complemented by ruggedized low-profile sights and an ergonomic rubberized grip, wielded in an active combat stance by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the KHMA Buck Burst Pistol so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "KHMA (logo-khma.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/pistolaction2.png",
         "id": "weapons:khma-buck-burst-pistol",
         "slug": "khma-buck-burst-pistol",
         "category": "Weapons",
@@ -784,8 +784,8 @@
         "image_2d": "",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/pistolaction2.png",
+        "image_status": "READY"
       },
       {
         "name": "KHMA Phase Weapon",
@@ -797,7 +797,7 @@
         "2d_image_url": "",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on KHMA Phase Weapon, A bulky yet lightweight rifle crafted from matte composite polymers, centered around a wide cylindrical photon emitter shrouded by ribbed heat sinks. Glowing cyan telemetry displays run along the upper receiver, complementing a futuristic digital optic suite and an ergonomic polymer stock, wielded in an active combat stance by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the KHMA Phase Weapon so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "KHMA (logo-khma.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/phaseaction (2).png",
         "id": "weapons:khma-phase-weapon",
         "slug": "khma-phase-weapon",
         "category": "Weapons",
@@ -810,8 +810,8 @@
         "image_2d": "",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/phaseaction (2).png",
+        "image_status": "READY"
       },
       {
         "name": "KHMA Deluxe Sniper Rifle",
@@ -850,7 +850,7 @@
         "2d_image_url": "",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on KHMA Automatic Shotgun, A rugged tactical shotgun crafted from matte-black polymer and stamped gunmetal, defined by an exposed revolving cylinder assembly and an elongated 24-inch barrel. It features a skeletal foldout shoulder stock, an ergonomic tactical foregrip, and crisp cyan status LEDs along the box magazine receiver, wielded in an active combat stance by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the KHMA Automatic Shotgun so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "KHMA (logo-khma.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/shotgunaction.png",
         "id": "weapons:khma-automatic-shotgun",
         "slug": "khma-automatic-shotgun",
         "category": "Weapons",
@@ -864,8 +864,8 @@
         "image_2d": "",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/shotgunaction.png",
+        "image_status": "READY"
       },
       {
         "name": "Self-Contained Assault Device",
@@ -1086,7 +1086,7 @@
         "2d_image_url": "",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on 21st Century Pistol, A rugged semi-automatic pistol crafted from matte black polymer and worn steel, bearing visible scratches and holster wear along the slide. It features simple mechanical iron sights equipped with faded tritium dots, devoid of any digital displays or futuristic wiring, wielded in an active combat stance by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the 21st Century Pistol so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "KHMA (logo-khma.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/pistolaction2.png",
         "id": "weapons:21st-century-pistol",
         "slug": "21st-century-pistol",
         "category": "Weapons",
@@ -1100,8 +1100,8 @@
         "image_2d": "",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/pistolaction2.png",
+        "image_status": "READY"
       },
       {
         "name": "Vibroknife",
@@ -1167,7 +1167,7 @@
         "2d_image_url": "",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on Heavy Pistol, A bulky, matte-black sidearm with a squared industrial slide and an integrated tactical under-barrel laser housing. Subtle cyan indicator lights line the ejection port alongside an ergonomic carbon-fiber grip stamped with precinct insignia, wielded in an active combat stance by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the Heavy Pistol so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "Detroit Industries (logo-detroit-industries.png): Detroit Industries (logo-detroit-industries.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79 | KHMA (logo-khma.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/pistolaction2.png",
         "id": "weapons:heavy-pistol",
         "slug": "heavy-pistol",
         "category": "Weapons",
@@ -1180,8 +1180,8 @@
         "image_2d": "",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/pistolaction2.png",
+        "image_status": "READY"
       },
       {
         "name": "Stun Baton",
@@ -1193,7 +1193,7 @@
         "2d_image_url": "",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on Stun Baton, A reinforced composite truncheon featuring an insulated ribbed rubber handle and a heavy, grooved metal striking head. Exposed conductive nodes wrap around the impact surface, crackling with intermittent arcs of bright blue electrical discharge, wielded in an active combat stance by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the Stun Baton so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "Source Page: https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=63",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/batonaction.png",
         "id": "weapons:stun-baton",
         "slug": "stun-baton",
         "category": "Weapons",
@@ -1206,8 +1206,8 @@
         "image_2d": "",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/weapons/action/batonaction.png",
+        "image_status": "READY"
       }
     ],
     "People": [
@@ -2787,10 +2787,10 @@
         "stats_lore": "Costing 300,000₩, this Tier 2 neural implant doubles as an organic melee weapon and grants advantage on Intimidation checks.",
         "visual_description_for_image_gen": "A pair of elongated, polished titanium fangs fitted into reinforced carbon-fiber root sockets. Microscopic hydraulic linkages are tucked into the gum line, glinting with a surgical sheen when the mouth is bared.",
         "cross_book_references": "[Carbon 2185 KHMA Catalogue Playtest 02, p.3]: ...RMORED FACEMASK AUGMENTATIONS OVERVIEW FACIAL DIGI-DISPLAY CANINE FANG NEO-CORTEX LINK MODULAR TECH SCANNER APPENDAGE OVERHAUL KHMA M.O.B BULLDOZER MK.III HYPER ADRENAL BOOSTER M.A.O MK.II BUD-I SUPPORT SYS... | [Carbon 2185 KHMA Catalogue Playtest 02, p.38]: ...37 CANINE FANG NEURAL For maximum intimidation there are few head augmentations that can match the Canine Fang. The mere sight of this aug is enough to... | [Carbon 2185 KHMA Catalogue Playtest 02, p.48]: ...appearance. Look like a new you, or someone else entirely. CANINE FANG TIER 2, NEURAL MANUFACTURER. KHMA PRICE. 300 000₩ Ramp up your intimidation factor with this lower jaw aug. These fierce-looking fangs are...",
-        "2d_image_url": "",
+        "2d_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/armor/isolated/canineiso.png",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on Canine Fang, A pair of elongated, polished titanium fangs fitted into reinforced carbon-fiber root sockets. Microscopic hydraulic linkages are tucked into the gum line, glinting with a surgical sheen when the mouth is bared, worn and activated in use by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the Canine Fang so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "KHMA (logo-khma.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=79",
-        "action_image_url": "",
+        "action_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/armor/action/canineaction.png",
         "id": "armor:canine-fang",
         "slug": "canine-fang",
         "category": "Armor",
@@ -2800,11 +2800,11 @@
           "Weapon",
           "Concealed"
         ],
-        "image_2d": "",
+        "image_2d": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/armor/isolated/canineiso.png",
         "image_360": "",
         "image_3d": "",
-        "image_action": "",
-        "image_status": "MISSING"
+        "image_action": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/armor/action/canineaction.png",
+        "image_status": "READY"
       },
       {
         "name": "Mobile Offensive Brace",
@@ -3976,7 +3976,7 @@
         "stats_lore": "Artificial ocular replacements installed to restore or sharpen visual perception for sentries and lookouts. In street-level operatives, these implants grant reliable sight in dim corridors and murky alleys.",
         "visual_description_for_image_gen": "Synthetic optical spheres nestled into the eye sockets, fitted with concentric mechanical iris rings that dilate with subtle whirs. Faint colored status LEDs glow along the titanium rims where the cybernetics graft into the flesh.",
         "cross_book_references": "[Carbon 2185 Core Rulebook Augmented Edition, p.93]: ...TIER 1, EYES MANUFACTURER. ZA Korp PRICE. 120 000₩ Your new cybernetic eyes have advanced aiming and targeting software. You can zoom your vision to 1.5x and have a +1 to hit with any attacks provided you can see...",
-        "2d_image_url": "",
+        "2d_image_url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/armor/isolated/eyesiso.png",
         "action_shot_midjourney_prompt": "Dynamic action shot centered on Cybernetic Eyes, Synthetic optical spheres nestled into the eye sockets, fitted with concentric mechanical iris rings that dilate with subtle whirs. Faint colored status LEDs glow along the titanium rims where the cybernetics graft into the flesh, worn and activated in use by a solid matte-black shadowed non-descript mannequin silhouette figure, pure pitch-black void background, dramatic high-contrast neon rim lighting illuminating only the Cybernetic Eyes so the gear pops as the focal hero centerpiece, sleek cyberpunk concept render --ar 1:1 --v 6.1",
         "logo_brand_ref_drive_pdf": "ZA Korp (logo-za-korp.png): ZA Korp (logo-za-korp.png): https://drive.google.com/file/d/12j5JDb2u3jvyWWhE5INpNKjmyrfDGSAc/view?usp=drivesdk#page=64",
         "action_image_url": "",
@@ -3989,11 +3989,11 @@
           "Augmentation",
           "Vision"
         ],
-        "image_2d": "",
+        "image_2d": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/armor/isolated/eyesiso.png",
         "image_360": "",
         "image_3d": "",
         "image_action": "",
-        "image_status": "MISSING"
+        "image_status": "READY"
       },
       {
         "name": "TMT Cardo",
