@@ -103,6 +103,15 @@
       "text": "Voice uplink bandwidth exceeded. Switching to local cached telemetry. Read your HUD readout to proceed.",
       "file": "characters/synth-generic/synth-generic-fallback.mp3",
       "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/synth-generic/synth-generic-fallback.mp3"
-    }
+    },
+    {
+  "id": "nar-neon-rain-blurs-the",
+  "speaker": "narrator",
+  "role": "Narrator",
+  "intent": "dynamic",
+  "text": "Neon rain blurs the alley ahead. Check your scanner before stepping past the shuttered noodle stand.",
+  "file": "narrator/nar-neon-rain-blurs-the.mp3",
+  "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/narrator/nar-neon-rain-blurs-the.mp3"
+}
   ]
 }
