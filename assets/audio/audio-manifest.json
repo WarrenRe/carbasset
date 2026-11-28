@@ -184,6 +184,138 @@
     "text": "Never missed a border, won't miss you.",
     "file": "characters/jesse-dust-bite-navarro/jesse-dust-bite-navarro-flavor.mp3",
     "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/jesse-dust-bite-navarro/jesse-dust-bite-navarro-flavor.mp3"
+  },
+    [
+  {
+    "id": "riko-crown-takeda-flavor",
+    "speaker": "riko-crown-takeda",
+    "role": "Street",
+    "voice_id": "a8n6tDkMLppJhsHU72DS",
+    "voice_name": "c2185-arch-street-grit-f",
+    "intent": "flavor",
+    "stability": 0.28,
+    "text": "Watch your angles; I run this grid.",
+    "dramatic_script": "[calm, cold] Watch your angles— [short pause] I RUN this grid.",
+    "file": "characters/riko-crown-takeda/riko-crown-takeda-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/riko-crown-takeda/riko-crown-takeda-flavor.mp3"
+  },
+  {
+    "id": "casimir-patch-vodyanov-flavor",
+    "speaker": "casimir-patch-vodyanov",
+    "role": "Street",
+    "voice_id": "vJbUNAfuAR8lQyDr5cY6",
+    "voice_name": "c2185-arch-street-grit-m",
+    "intent": "flavor",
+    "stability": 0.28,
+    "text": "Flesh or chrome, it all solders back.",
+    "dramatic_script": "[scoffs] Flesh or chrome... [calm, cold] it all SOLDERS back.",
+    "file": "characters/casimir-patch-vodyanov/casimir-patch-vodyanov-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/casimir-patch-vodyanov/casimir-patch-vodyanov-flavor.mp3"
+  },
+  {
+    "id": "kaelen-brick-vance-flavor",
+    "speaker": "kaelen-brick-vance",
+    "role": "Street",
+    "voice_id": "vJbUNAfuAR8lQyDr5cY6",
+    "voice_name": "c2185-arch-street-grit-m",
+    "intent": "flavor",
+    "stability": 0.28,
+    "text": "I'm the wall that hits back.",
+    "dramatic_script": "[slowly] I'm the wall... [short pause] that hits BACK.",
+    "file": "characters/kaelen-brick-vance/kaelen-brick-vance-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/kaelen-brick-vance/kaelen-brick-vance-flavor.mp3"
+  },
+  {
+    "id": "nomi-null-key-thorne-flavor",
+    "speaker": "nomi-null-key-thorne",
+    "role": "Synth",
+    "voice_id": "od0QR0uARHEpPiHD88gZ",
+    "voice_name": "c2185-arch-synth-cold",
+    "intent": "flavor",
+    "stability": 0.52,
+    "text": "Ghost the grid, bleed the corps dry.",
+    "dramatic_script": "[whispers] Ghost the grid... [calm, cold] BLEED the corps dry.",
+    "file": "characters/nomi-null-key-thorne/nomi-null-key-thorne-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/nomi-null-key-thorne/nomi-null-key-thorne-flavor.mp3"
+  },
+  {
+    "id": "miri-bloodhound-callahan-flavor",
+    "speaker": "miri-bloodhound-callahan",
+    "role": "Street",
+    "voice_id": "a8n6tDkMLppJhsHU72DS",
+    "voice_name": "c2185-arch-street-grit-f",
+    "intent": "flavor",
+    "stability": 0.28,
+    "text": "Corps bleed data; I track the stains.",
+    "dramatic_script": "[scoffs] Corps bleed data... [short pause] I track the STAINS.",
+    "file": "characters/miri-bloodhound-callahan/miri-bloodhound-callahan-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/miri-bloodhound-callahan/miri-bloodhound-callahan-flavor.mp3"
+  },
+  {
+    "id": "felix-grip-solano-flavor",
+    "speaker": "felix-grip-solano",
+    "role": "Street",
+    "voice_id": "BWHhvcJ75zXcVsJiKD6M",
+    "voice_name": "c2185-arch-hacker-slick-m",
+    "intent": "flavor",
+    "stability": 0.25,
+    "text": "Blink once and your chrome is mine.",
+    "dramatic_script": "[whispers] Blink once— [intense] and your CHROME is mine!",
+    "file": "characters/felix-grip-solano/felix-grip-solano-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/felix-grip-solano/felix-grip-solano-flavor.mp3"
+  },
+  {
+    "id": "harrison-sterling-holt-flavor",
+    "speaker": "harrison-sterling-holt",
+    "role": "Corpo",
+    "voice_id": "Z3vXVMAR4NcROI5w8ZxB",
+    "voice_name": "c2185-arch-corpo-ice-m",
+    "intent": "flavor",
+    "stability": 0.34,
+    "text": "Your severance package is non-negotiable.",
+    "dramatic_script": "[calm, cold] Your severance package... [short pause] is NON-NEGOTIABLE.",
+    "file": "characters/harrison-sterling-holt/harrison-sterling-holt-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/harrison-sterling-holt/harrison-sterling-holt-flavor.mp3"
+  },
+  {
+    "id": "vivian-mercer-flavor",
+    "speaker": "vivian-mercer",
+    "role": "Corpo",
+    "voice_id": "C91qgbauvZJfTE5jLPil",
+    "voice_name": "c2185-arch-corpo-ice-f",
+    "intent": "flavor",
+    "stability": 0.34,
+    "text": "Hold still. I don't waste anesthesia.",
+    "dramatic_script": "[calm, cold] Hold still... [short pause] I don't WASTE anesthesia.",
+    "file": "characters/vivian-mercer/vivian-mercer-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/vivian-mercer/vivian-mercer-flavor.mp3"
+  },
+  {
+    "id": "beatrice-aegis-fontaine-flavor",
+    "speaker": "beatrice-aegis-fontaine",
+    "role": "Corpo",
+    "voice_id": "C91qgbauvZJfTE5jLPil",
+    "voice_name": "c2185-arch-corpo-ice-f",
+    "intent": "flavor",
+    "stability": 0.34,
+    "text": "Built to survive your worst investments.",
+    "dramatic_script": "[calm, cold] Built to survive... [short pause] your WORST investments.",
+    "file": "characters/beatrice-aegis-fontaine/beatrice-aegis-fontaine-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/beatrice-aegis-fontaine/beatrice-aegis-fontaine-flavor.mp3"
+  },
+  {
+    "id": "julian-spire-archambault-flavor",
+    "speaker": "julian-spire-archambault",
+    "role": "Corpo",
+    "voice_id": "Z3vXVMAR4NcROI5w8ZxB",
+    "voice_name": "c2185-arch-corpo-ice-m",
+    "intent": "flavor",
+    "stability": 0.34,
+    "text": "I wrote the backdoor you're relying on.",
+    "dramatic_script": "[calm, cold] I wrote the BACKDOOR... [short pause] you're relying on.",
+    "file": "characters/julian-spire-archambault/julian-spire-archambault-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/julian-spire-archambault/julian-spire-archambault-flavor.mp3"
   }
+]
 ]
 }
