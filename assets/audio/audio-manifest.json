@@ -112,6 +112,78 @@
   "text": "Neon rain blurs the alley ahead. Check your scanner before stepping past the shuttered noodle stand.",
   "file": "narrator/nar-neon-rain-blurs-the.mp3",
   "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/narrator/nar-neon-rain-blurs-the.mp3"
-}
-  ]
+  },
+  {
+    "id": "silas-rust-baron-vane-flavor",
+    "speaker": "silas-rust-baron-vane",
+    "role": "Street",
+    "voice_id": "LJIP22UgZnUxj8Hdc8qW",
+    "voice_name": "c2185-silas-rust-baron-vane",
+    "intent": "flavor",
+    "emotion_tag": "[gritty, intense]",
+    "text": "Pay the toll or become scrap.",
+    "file": "characters/silas-rust-baron-vane/silas-rust-baron-vane-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/silas-rust-baron-vane/silas-rust-baron-vane-flavor.mp3"
+  },
+  {
+    "id": "dr-mara-needle-reyes-flavor",
+    "speaker": "dr-mara-needle-reyes",
+    "role": "Street",
+    "voice_id": "n4O6YvWYYZWtbvo2Pwnl",
+    "voice_name": "c2185-dr-mara-needle-reyes",
+    "intent": "flavor",
+    "emotion_tag": "[gritty, intense]",
+    "text": "Bite down. Clean cuts cost extra.",
+    "file": "characters/dr-mara-needle-reyes/dr-mara-needle-reyes-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/dr-mara-needle-reyes/dr-mara-needle-reyes-flavor.mp3"
+  },
+  {
+    "id": "torin-cinder-kross-flavor",
+    "speaker": "torin-cinder-kross",
+    "role": "Street",
+    "voice_id": "DefJoDqpKv0pdJdwETOw",
+    "voice_name": "c2185-torin-cinder-kross",
+    "intent": "flavor",
+    "emotion_tag": "[gritty, intense]",
+    "text": "Corporate steel melts just like slag.",
+    "file": "characters/torin-cinder-kross/torin-cinder-kross-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/torin-cinder-kross/torin-cinder-kross-flavor.mp3"
+  },
+  {
+    "id": "jax-static-chen-flavor",
+    "speaker": "jax-static-chen",
+    "role": "Synth",
+    "voice_id": "OBWT6kdp7NOWQ14665EK",
+    "voice_name": "c2185-jax-static-chen",
+    "intent": "flavor",
+    "emotion_tag": "[calm, measured]",
+    "text": "Clean code breaks. Static always survives.",
+    "file": "characters/jax-static-chen/jax-static-chen-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/jax-static-chen/jax-static-chen-flavor.mp3"
+  },
+  {
+    "id": "elena-vulture-vasquez-flavor",
+    "speaker": "elena-vulture-vasquez",
+    "role": "Street",
+    "voice_id": "NuotHrQVAjFnyHrLvF2a",
+    "voice_name": "c2185-elena-vulture-vasquez",
+    "intent": "flavor",
+    "emotion_tag": "[confident]",
+    "text": "Dust settles. Corporate debts never do.",
+    "file": "characters/elena-vulture-vasquez/elena-vulture-vasquez-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/elena-vulture-vasquez/elena-vulture-vasquez-flavor.mp3"
+  },
+  {
+    "id": "jesse-dust-bite-navarro-flavor",
+    "speaker": "jesse-dust-bite-navarro",
+    "role": "Street",
+    "voice_id": "dS1IRh9A3IfRXTEkFQiz",
+    "voice_name": "c2185-jesse-dust-bite-navarro",
+    "intent": "flavor",
+    "emotion_tag": "[casual, amused]",
+    "text": "Never missed a border, won't miss you.",
+    "file": "characters/jesse-dust-bite-navarro/jesse-dust-bite-navarro-flavor.mp3",
+    "url": "https://raw.githubusercontent.com/WarrenRe/carbasset/main/assets/audio/characters/jesse-dust-bite-navarro/jesse-dust-bite-navarro-flavor.mp3"
+  }
+]
 }
